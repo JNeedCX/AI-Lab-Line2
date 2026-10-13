@@ -1,4 +1,4 @@
-<img width="1265" height="799" alt="屏幕截图 2026-10-12 204533" src="https://github.com/user-attachments/assets/44826044-04c4-487b-950b-f803df018a0b" /># Task01 现代AI编程环境配置
+# Task01 现代AI编程环境配置
 ## 环境清单（AI研发三件套）
 1. AI IDE：Trae（AI原生代码编辑器）
 2. 终端AI Agent：Aider v0.86.2
