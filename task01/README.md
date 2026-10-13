@@ -11,8 +11,11 @@
 
 ## 截图说明
 <img width="1265" height="799" alt="屏幕截图 2026-10-12 204533" src="https://github.com/user-attachments/assets/69d86d03-584d-49ca-8f01-12a998ef15e5" />
+
 - trae.png：Trae IDE工作界面
  <img width="558" height="183" alt="594cd406-d739-4f68-996a-27d65e171e61" src="https://github.com/user-attachments/assets/4f4b9063-d863-40b5-a339-4ce55aa1200c" />
+
 - aider.png：Aider终端成功交互运行截图
 <img width="610" height="407" alt="屏幕截图 2026-10-13 091838" src="https://github.com/user-attachments/assets/94e3d4b4-8615-43cc-8e4b-10fdd7a2b0a8" />
+
 - api_key.png：大模型API密钥页面
